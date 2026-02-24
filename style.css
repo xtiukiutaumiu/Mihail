@@ -1,0 +1,21 @@
+nav a { margin: 20px ;  
+padding: 5px;
+font-size: 20px ;
+text-decoration: none ;
+color: white ;
+border: 3px solid navy ;
+border-radius: 10px ;
+background-color: navy ;}
+.popular { background-color: white ;  
+color: royalblue ;}
+body {
+    font-family: sans-serif;
+}
+header { font-size: 40px ;
+color: red ; text-align: center; }
+header a { text-decoration:none ; 
+color: black ; 
+border: 5px solid rgb(105, 54, 112) ;
+ }
+ h1 { text-align: center; color: rgb(21, 105, 82); font-size: 50px ;   }
+ footer p { border: 2px solid rgb(71, 9, 9) ; }
